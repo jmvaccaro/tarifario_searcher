@@ -1,14 +1,14 @@
 import requests
 import pandas as pd
 
-# Obtener el contenido de la página web solo una vez
+# Get the content of the web page
 url = "https://tarifario.org/"
 response = requests.get(url)
 
-# Extraer las tablas de la página
+# Extract tables from the page
 tables = pd.read_html(response.text)
 
-# Procesar las tablas como antes
+# Processing the tables
 columns = ["Concept", "Client A", "Client B", "Client C", "Consult", "Category", "Subcategory"]
 categories = ["Diseño Audiovisual", "Diseño Gráfico", "Diseño Gráfico", "Editorial", "Identidad", "Identidad", "Identidad",
               "Ilustración", "Ilustración", "Ilustración", "Ilustración", "Multimedia", "Fotografia", "Multimedia", "Multimedia", "Video",
@@ -31,15 +31,14 @@ for i in range(len(categories)):
     table_web.columns = columns
     df = pd.concat([df, table_web], ignore_index=True)
 
-# Limpiar los valores monetarios
+# Clean up monetary values
 for i in ["Client A", "Client B", "Client C"]:
     df[i] = df[i].str.replace("$", "").str.replace(",", "").str.replace("-", "0").astype(int)
 
-# Reorganizar las columnas
+# Rearrange columns
 df = df[["Category", "Subcategory", "Concept", "Client A", "Client B", "Client C"]]
 
-# Guardar el DataFrame a un CSV
+# Save the DataFrame to a CSV
 df.to_csv('tarifario_data.csv', index=False)
 
-# Mostrar el DataFrame
 print(df)
