@@ -1,0 +1,133 @@
+Category,Subcategory,Concept,Client A,Client B,Client C
+Diseño Audiovisual,Audio,Composición y grabación de música original Hasta un minuto de duración,79868,69139,57219
+Diseño Audiovisual,Audio,Efectos de sonido para sitio web,20384,15974,11921
+Diseño Audiovisual,Audio,Locución para spot (25 segundos),17166,10728,3576
+Diseño Audiovisual,Audio,"Spot radial 25 / 35 segundos Edición de sonido, efectos y composición final",30993,20503,14861
+Diseño Gráfico,Merchandising,Diseño completo de Merchandising Remeras / llaveros / gorras / calcos,171656,123974,85828
+Diseño Gráfico,Merchandising,Diseño de calcos,23841,17166,10728
+Diseño Gráfico,Merchandising,Diseño de pin / llaveros / lapiceras,17166,10728,6675
+Diseño Gráfico,Merchandising,Diseño de remera,27417,20742,13828
+Diseño Gráfico,Packaging,"Diseño de envase alta complejidad Desarrollo morfológico de estuche troquelado, envase PET, etc. Sin gráfica",188344,135894,89404
+Diseño Gráfico,Packaging,"Diseño de envase baja complejidad Etiqueta aplicada, envoltura simple, impresión sobre envase, etc.",84040,54834,19629
+Diseño Gráfico,Packaging,"Diseño de envase mediana complejidad Desarrollo de gráfica para cajas, bricks, etc. (Tiraje intermedio)",131126,83444,46490
+Diseño Gráfico,Packaging,Etiqueta de vino etiqueta / contraetiqueta / cápsul,338543,250331,185960
+Editorial,Piezas Editoriales,Diseño de Brochure (10 páginas),119205,88212,0
+Editorial,Piezas Editoriales,Diseño de Brochure (20 páginas),264159,194543,98940
+Editorial,Piezas Editoriales,Diseño de Libro por página compuesta Página compuesta con gráficos y/o imágenes.,0,0,1192
+Editorial,Piezas Editoriales,"Diseño de Libro por página simple Página simple, sin gráficos ni imágenes",0,0,834
+Editorial,Piezas Editoriales,Diseño de menú para restaurante 6 páginas,128742,92980,66755
+Editorial,Piezas Editoriales,Diseño de Portada para CD con booklet interior hasta 2 pliegos,264159,126358,83444
+Editorial,Piezas Editoriales,Diseño de postal Frente (imagen) y dorso (datos),30993,18834,11921
+Editorial,Piezas Editoriales,"Diseño de tapa De revista, diario o libro. Incluyen originales listos para imprimir según los requerimientos de la imprenta",64132,49272,28550
+Editorial,Piezas Editoriales,Diseño de un libro (100 páginas),0,0,90596
+Editorial,Piezas Editoriales,Diseño de una Revista 20 páginas Diseño de una Revista / Memoria y Balance / Catálogo (20 páginas),209086,152583,77722
+Editorial,Piezas Editoriales,Diseño de una Revista 40 páginas Diseño de Revista / Memoria y Balance / Catálogo (40 páginas),330199,243179,174040
+Editorial,Piezas Editoriales,Diseño de una Revista 60 páginas Diseño de una Revista / Memoria y Balance / Catálogo (60 páginas),396954,290861,208609
+Identidad,Corporativa,Diseño de Marca Diseño de Marca Manual normativo y aplicaciones básicas (hasta 5 piezas),0,119205,78675
+Identidad,Corporativa,Diseño de Marca Básico Diseño de Marca (Sin aplicaciones) Manual normativo básico,0,0,38146
+Identidad,Corporativa,Identidad corporativa Logotipo / Isotipo / Aplicaciones básicas / Guía uso y aplicaciones,289272,195894,101921
+Identidad,Corporativa,"Logo Logotipos, isotipo, imagotipo, isologo",0,0,59603
+Identidad,Corporativa,Rediseño de una identidad,292053,197881,103113
+Identidad,Otros Servicios de Identidad,5 aplicaciones en base a una marca existente,0,0,30993
+Identidad,Otros Servicios de Identidad,"Digitalización y redibujo logos, tarjetas, etc",10728,7152,3576
+Identidad,Otros Servicios de Identidad,Identidad de un producto,240795,189536,120397
+Identidad,Señalética,Arquigrafía,0,0,52450
+Identidad,Señalética,"Diseño de Sistema señalético alta complejidad Áreas extensas: Ej.: Terminales de Ómnibus, Organismos Gubernamentales, Parques, Señalética Urbana, etc",270596,205033,135894
+Identidad,Señalética,"Diseño de Sistema señalético baja complejidad Áreas reducidas: Ej.: Bares, restos, estudios, pymes, etc.",120397,84636,51258
+Identidad,Señalética,Diseño de Sistema señalético básico Distribución interior/exterior hasta 25 piezas,69139,51735,34331
+Identidad,Señalética,"Diseño de Sistema señalético mediana complejidad Áreas intermedias: Ej.: Clínicas, sanatorios, clubes, fábricas, eventos temporales, etc.",171656,122185,72715
+Ilustración,A Mano Alzada,Ilustración a mano alzada para revista / folleto / web,97748,71523,50066
+Ilustración,Ilustración 3D,Ilustración 3D para revista / folleto / web,135894,102517,69139
+Ilustración,Ilustración Vectorial,Ilustración vectorial para revista / folleto / web,78675,52450,34331
+Ilustración,Otros Servicios de Ilustración,Diseño de avatar para red social,9536,7868,5364
+Ilustración,Otros Servicios de Ilustración,Infografías,238411,152583,85828
+Multimedia,Presentación Digital,"Desarrollo de presentación digital Portfolios, brochure, etc",174040,107285,66755
+Fotografia,Fotografía,Foto de producto Por unidad,17166,12397,8464
+Fotografia,Fotografía,Sesión fotográfica en estudio / Hasta 2 horas / 1 cámara,47682,35762,22411
+Fotografia,Fotografía,Sesión fotográfica en locación / Hasta 2 horas / 1 cámara,102517,66755,50066
+Multimedia,Multimedia 3D,Animación de personaje o escenario Por minuto,286093,228874,171656
+Multimedia,Multimedia 3D,Animacion de modelo 3D Costo por envase o composición (grupo) de piezas hasta 1000 cuadros,59841,40291,22530
+Multimedia,Multimedia 3D,Modelado 3D de Stand complejidad alta Incluye renderizado (hasta 10 imágenes/vistas),66755,51497,34331
+Multimedia,Multimedia 3D,Modelado 3D de Stand complejidad baja Tipo cubículo Tipo cubículo (2 o 3 paredes + cenefa) + Renderizado (hasta 5 imág./vistas).,27417,20742,13828
+Multimedia,Multimedia 3D,Modelado de logo Sobre un diseño ya existente,36954,27417,18119
+Multimedia,Multimedia 3D,Modelado de personaje estándar Previamente diseñado,164503,121589,81060
+Multimedia,Multimedia 3D,Modelado de plano 3d,109669,81060,53642
+Multimedia,Multimedia 3D,Modelado escenario,219338,162119,107285
+Multimedia,Multimedia 3D,Renderizado de modelo 3D Precio unitario de cada imágen/vista,4053,3576,2861
+Multimedia,Otros Servicios Multimedia,Escaneo digital / Por unidad,1073,668,596
+Video,Video,"Edición de Video (precio por min) Incluye retoque de imagen, sonido y render",9060,6914,4530
+Video,Video,"Filmación - 1 cámara, 2 horas",73669,54834,36358
+Video,Video,"Placa animada / Diseño de texto, fondo y animación 5 segundos de duración",13828,10728,6795
+Video,Video,Placa estática,5483,4291,2861
+Video,Video,"Spot publicitario alta complejidad Edición de tomas, placas animadas, 3d, Flash, duración entre 20 y 30 segundos",414834,355232,206225
+Video,Video,Spot publicitario baja complejidad Edición de tomas y placas estáticas de duración entre 20 y 30 segundos,152583,131126,69139
+Video,Video,Spot publicitario mediana complejidad Edición de tomas y placas animadas / duración: 25 segundos,240795,205033,110861
+Papelería,Básica,Diseño de Carpeta Institucional,38146,29325,17881
+Papelería,Básica,Diseño de hojas membretadas,22649,17166,10013
+Papelería,Básica,Diseño de sobres,22649,17166,10013
+Papelería,Básica,Tarjetas para eventos,29611,22697,16307
+Papelería,Básica,Tarjetas personales,22649,17166,10013
+Papelería,Comercial,Factura,35046,25510,18358
+Papelería,Comercial,Formulario,25272,18596,13113
+Papelería,Comercial,Remito,35046,25510,18358
+Papelería,Comunicación,Manual de instrucciones,138278,101325,72715
+Publicidad,Cartelería,Afiche A3,38623,22053,13907
+Publicidad,Cartelería,Banner impreso,0,0,17881
+Publicidad,Cartelería,Diseño de cartel de fachada,85828,65563,38861
+Publicidad,Cartelería,"Diseño de stand Diseño morfológico, elección de mobiliario, etc.",205033,152583,92980
+Publicidad,Cartelería,Gigantografía,97748,55430,31470
+Publicidad,Cartelería,Gráfica para stand Gráfica aplicada sobre estructura pre-diseñada/panelizado,120397,85828,51735
+Publicidad,Cartelería,Ploteado para vidriera,42914,28609,17523
+Publicidad,Cartelería,Ploteado vehicular,78675,54834,34570
+Publicidad,Editorial,Aviso para diario / revista 1 o doble página 1 pagina o doble pagina. Sin redacción.,53404,37748,23205
+Publicidad,Editorial,Aviso para diario/revista 1/2 página 1/2 pagina o menos. Sin redacción.,38325,23960,13303
+Publicidad,Folletería,Folleto A5 frente y dorso,23841,16689,11921
+Publicidad,Folletería,Folleto díptico,46490,36000,23841
+Publicidad,Folletería,Folleto frente,41245,27656,14543
+Publicidad,Folletería,Folleto frente y dorso,48159,34331,23841
+Publicidad,Folletería,Folleto tríptico,86781,58411,33497
+Hourly Rates,Hourly Rates,Asesoramiento / Supervisión,9060,6675,4530
+Hourly Rates,Hourly Rates,Asesoramiento en comunicación visual para SRL / SA por hora,14305,0,0
+Hourly Rates,Hourly Rates,Diseño por hora,9060,6675,4530
+Hourly Rates,Hourly Rates,Fotomontaje por hora,8344,5960,4291
+Hourly Rates,Hourly Rates,Supervisión de tomas fotográficas por hora,7748,8583,4768
+Hourly Rates,Hourly Rates,Trabajos de Pre-impresión por hora Redibujado de marca u otros diseños,3576,0,0
+Web,Banners,Banners animados complejos Incluye tareas de programación de interacción complejas,64371,45298,33377
+Web,Banners,Banners animados complejos 3D,132318,96795,69139
+Web,Banners,Banners animados simples,29205,20623,14185
+Web,Diseño y Maquetación,"Desarrollo de presentación digital Intro, reel, etc",119205,59603,40530
+Web,Diseño y Maquetación,Desarrollo de Web Site Institucional Home y hasta 5 secciones. No incluye tareas de programación,148212,112450,83444
+Web,Diseño y Maquetación,Diseño de plantilla para mailing,32185,21457,14305
+Web,Diseño y Maquetación,Diseño y maquetación de sitio HTML / CSS Home y 5 secciones,120397,103709,85828
+Web,Diseño y Maquetación,Diseño y maquetación de sitio HTML / CSS / PHP / MYSQL,276556,200265,143046
+Web,Diseño y Maquetación,Diseño y maquetación de sitio HTML5 y CSS3 Home y 5 secciones,178808,152583,120795
+Web,Diseño y Maquetación,"Diseño y maquetación de sitio responsivo/adaptativo Home y 5 secciones para 3 dispositvos (PC, mobile, tablet)",259868,224106,185960
+Web,Diseño y Maquetación,Firma o encabezado de e-mail,22649,17166,12397
+Web,Diseño y Maquetación,Mailing publicitario Diseño y maquetado html,33219,20662,15115
+Web,Diseño y Maquetación,Sección de noticias o Blog Sección de noticias o Blog (Sistema de comentarios por usuarios),27417,20265,14543
+Web,Flash,"Galería de imágenes o portfolio Flash Concepto, diseño, programación y animación",23841,21457,17166
+Web,Flash,"Galería de videos Concepto, diseño, programación y animación",22887,18596,14305
+Web,Flash,Interfaz web Flash Interface (Diagrama de contenidos),286093,228874,190728
+Web,Flash,"INTRO 15 segundos Diseño, programación, 3D, animación y sonido",137086,101325,51854
+Web,Flash,"INTRO 30 segundos Diseño, programación, 3D, animación y sonido",230066,169272,77483
+Web,Flash,"Página comleja Flash Diseño de pantalla con textos, imágenes y programación",23841,21457,17166
+Web,Flash,Página estándar diseño de contenidos simple y animación,10371,9536,8344
+Web,Otros Servicios Web,Formulario web Diseño y puesta en marcha,22649,18596,14305
+Web,Otros Servicios Web,Galería de imágenes o videos Instalación del sistema y diseño personalizado,18119,13351,9536
+Web,Otros Servicios Web,"Implementación de WordPress, Joomla o similar Instalación y configuración, carga de datos Capacitación",140662,120397,100132
+Marketing,Identidad Corporativa,Claim Descripción o beneficio que se le atribuye a un servicio o producto.,54834,41722,28609
+Marketing,Identidad Corporativa,Naming Proceso definición de nombre de marca,85828,60795,34570
+Marketing,Identidad Corporativa,Slogan o lema Definición o “manera de ser” de una marca,54834,41722,28609
+Redacción,Redacción,Redacción de aviso institucional,23841,17166,10728
+Redacción,Redacción,Redacción de flyer / Frente y dorso,17166,13828,10728
+Redacción,Redacción,Redacción de folleto díptico,30993,20742,13828
+Redacción,Redacción,Redacción de gacetilla de prensa / Frente y dorso,20742,17166,13828
+Redes Sociales,Redes Sociales,Actualización de noticias con enlaces,8106,6675,5960
+Redes Sociales,Redes Sociales,Concurso en muro,64132,54834,45298
+Redes Sociales,Redes Sociales,Estrategia de marketing y comunicación en redes sociales,59603,51258,42914
+Redes Sociales,Redes Sociales,Gestión de comunidades Costo mensual entre 1 y 5 posteos,40530,34331,28609
+Redes Sociales,Redes Sociales,Gestión de comunidades Costo mensual entre 5 y 10 posteos,59603,51258,42914
+Redes Sociales,Redes Sociales,Registro de Usuario y creación de perfil,11921,10252,6437
+Redes Sociales,Redes Sociales,Subida de imágenes Galería de al menos de 10 imágenes,5483,3815,4411
+Redes Sociales,Redes Sociales,Subida de videos,11205,8106,6675
+Programación,Web,Programación Sistema de gestion de contenidos 1 seccion autoadministrable,120397,102517,85828
